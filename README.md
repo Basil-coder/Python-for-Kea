@@ -1,2 +1,2 @@
 # Python-for-Kea
-The git hub ripo used to make basic cone in Pythion for learning perposes. 
+The github repo used to make basic code in Python for learning purposes. 
